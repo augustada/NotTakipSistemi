@@ -194,7 +194,7 @@ CREATE TABLE `ogrenci` (
 --
 
 INSERT INTO `ogrenci` (`id`, `username`, `mail`, `password`, `dtarih`, `durum`, `bolum`, `sinif`, `donem`, `created_at`, `updated`) VALUES
-(1, 'özge ', '190928001@comu.tr', '12345', '1995-11-09', 1, 'Bilgisayar Programcılıgı', '2.Sınıf 4.Dönem', 'Bahar', '2021-03-23 10:29:49', '2021-05-04 13:13:18'),
+(1, 'özge ', '190928111@comu.tr', '12345', '1995-11-09', 1, 'Bilgisayar Programcılıgı', '2.Sınıf 4.Dönem', 'Bahar', '2021-03-23 10:29:49', '2021-05-04 13:13:18'),
 (2, 'ahmet', '190928099@comu.tr', '1234', '1987-10-22', 1, 'Bilgisayar Programcılıgı', '2.Sınıf 4.Dönem', 'Bahar', '2021-04-08 12:39:37', '2021-05-04 13:13:17'),
 (3, 'ali', '190928002@comu.tr', '22222', '2021-01-27', 1, 'Bilgisayar Programcılıgı', '2.Sınıf 3.Dönem', 'Güz', '2021-04-13 10:34:34', '2021-05-04 13:13:19');
 
